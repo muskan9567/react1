@@ -13,7 +13,7 @@ public:
 
             if(e1 > s2){
                 count++;
-                
+                s1 = s1;
                 e1 = min(e1, e2); 
             } 
             else {
