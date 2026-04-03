@@ -4,6 +4,7 @@ public:
         sort(intervals.begin(), intervals.end());
         
         int count = 0;
+        int s1 = intervals[0][0];
         int e1 = intervals[0][1];
 
         for(int i = 1; i < intervals.size(); i++){
@@ -12,9 +13,11 @@ public:
 
             if(e1 > s2){
                 count++;
+                
                 e1 = min(e1, e2); 
             } 
             else {
+                s1 = s2;
                 e1 = e2;
             }
         }
