@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
+## String
+|  |
+| ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
+## Simulation
+|  |
+| ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
