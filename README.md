@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
 | [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
