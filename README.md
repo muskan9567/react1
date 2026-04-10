@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/muskan9567/react1/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/muskan9567/react1/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/muskan9567/react1/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/muskan9567/react1/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Simulation
