@@ -77,9 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
 | [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/tree/master/2069-walking-robot-simulation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
