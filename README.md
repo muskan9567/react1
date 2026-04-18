@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/muskan9567/react1/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/muskan9567/react1/tree/master/0657-robot-return-to-origin) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Simulation
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
