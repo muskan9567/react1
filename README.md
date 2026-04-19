@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
 | [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/muskan9567/react1/tree/master/0344-reverse-string) |
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sweep Line
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
 ## Bit Manipulation
 |  |
