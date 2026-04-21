@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
 | [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -104,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
