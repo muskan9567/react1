@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/muskan9567/react1/tree/master/0657-robot-return-to-origin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2833-furthest-point-from-origin](https://github.com/muskan9567/react1/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/muskan9567/react1/tree/master/2615-sum-of-distances) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/muskan9567/react1/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
