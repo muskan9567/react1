@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0228-summary-ranges](https://github.com/muskan9567/react1/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
 | [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/muskan9567/react1/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
 | [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
