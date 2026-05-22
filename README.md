@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/muskan9567/react1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/muskan9567/react1/tree/master/0048-rotate-image) |
 | [0228-summary-ranges](https://github.com/muskan9567/react1/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/muskan9567/react1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
