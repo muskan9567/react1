@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskan9567/react1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/muskan9567/react1/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/tree/master/2078-two-furthest-houses-with-different-colors) |
