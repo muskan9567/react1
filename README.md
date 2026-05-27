@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
 | [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/muskan9567/react1/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/muskan9567/react1/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/muskan9567/react1/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
