@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/muskan9567/react1/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2574-left-and-right-sum-differences](https://github.com/muskan9567/react1/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/muskan9567/react1/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/muskan9567/react1/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/muskan9567/react1/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
 ## Counting
