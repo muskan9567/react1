@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/muskan9567/react1/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/muskan9567/react1/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3689-maximum-total-subarray-value-i](https://github.com/muskan9567/react1/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
