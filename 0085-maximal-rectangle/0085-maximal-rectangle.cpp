@@ -30,14 +30,14 @@ public:
         return ans;
     }
 
-    int findarea(vector<int>& matrix, int n) {
-        vector<int> NSR = nextsmallerright(matrix, n);
-        vector<int> NSL = nextsmallerleft(matrix, n);
+    int findarea(vector<int>& matrix, int m) {
+        vector<int> NSR = nextsmallerright(matrix, m);
+        vector<int> NSL = nextsmallerleft(matrix, m);
         int area = INT_MIN;
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < m; i++) {
             int length = matrix[i];
             if(NSR[i] == -1) {
-                NSR[i] = n;
+                NSR[i] = m;
             }
             int width = NSR[i] - NSL[i] - 1;
             int newarea = length * width;
@@ -56,6 +56,7 @@ public:
         }
 
         int area = findarea(temp, m);
+
         for(int i = 1; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(matrix[i][j] == '1') {
