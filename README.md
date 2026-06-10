@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskan9567/react1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/muskan9567/react1/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
 | [0228-summary-ranges](https://github.com/muskan9567/react1/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/muskan9567/react1/tree/master/0788-rotated-digits) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/muskan9567/react1/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1861-rotating-the-box](https://github.com/muskan9567/react1/tree/master/1861-rotating-the-box) |
 | [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/muskan9567/react1/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/muskan9567/react1/tree/master/0739-daily-temperatures) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/muskan9567/react1/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
