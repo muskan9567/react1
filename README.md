@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/muskan9567/react1/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/muskan9567/react1/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/muskan9567/react1/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/muskan9567/react1/tree/master/0788-rotated-digits) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/muskan9567/react1/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/tree/master/0145-binary-tree-postorder-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/tree/master/0145-binary-tree-postorder-traversal) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
