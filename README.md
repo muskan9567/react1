@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/muskan9567/react1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
 | [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/tree/master/2069-walking-robot-simulation-ii) |
 ## Divide and Conquer
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/muskan9567/react1/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/muskan9567/react1/tree/master/0739-daily-temperatures) |
