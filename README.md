@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/muskan9567/react1/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sweep Line
 |  |
@@ -219,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
